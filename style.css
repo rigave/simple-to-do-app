@@ -31,7 +31,7 @@ html {
   font-size: 3.2rem;
   text-align: center;
   font-weight: 600;
-  color: #333;
+  color: #2d3047;
   margin-bottom: 2.4rem;
 }
 
@@ -57,7 +57,7 @@ html {
   border: none;
   outline: none;
   padding: 1.6rem 5.6rem;
-  background-color: #ff5945;
+  background-color: #c04abc;
   color: #fff;
   border-radius: 100px;
   font-size: 1.6rem;
@@ -88,12 +88,12 @@ ul li::before {
 }
 
 ul li.checked {
-  color: #555;
+  color: #ffdbb5;
   text-decoration: line-through;
 }
 
 ul li.checked::before {
-  background-color: #ff5945;
+  background-color: #c04abc;
   border: 1px solid transparent;
 }
 
